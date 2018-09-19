@@ -1,0 +1,131 @@
+
+System design
+----------------
+
+http://www.lihaoyi.com/post/HowtoconductagoodProgrammingInterview.html
+
+youtube:
+https://www.youtube.com/channel/UCJjC1hn78yZqTf0vdTC6wAQ
+https://www.youtube.com/user/tusharroy2525/videos
+https://www.youtube.com/user/mycodeschool
+https://www.youtube.com/user/saurabhschool/featured
+
+
+
+http://blog.gainlo.co/index.php/2017/02/24/chapter-2-build-solid-foundation-complete-guide-google-interview-preparation/
+
+The 8 fallacies of distributed computing
+
+Grokking the System design:
+https://www.educative.io/collection/page/5668639101419520/5649050225344512/5643440998055936
+
+https://www.educative.io/collection/5668639101419520/5649050225344512
+
+https://www.hiredintech.com/app#system-design
+
+https://refdash.com/
+
+http://highscalability.com/
+
+http://www.gainlo.co/
+
+https://www.youtube.com/watch?v=0s1aVoeF0Gs
+
+https://www.geekyprep.com/
+
+http://www.lecloud.net/post/7295452622/scalability-for-dummies-part-1-clones
+
+http://www.hiredintech.com/system-design
+
+https://www.youtube.com/watch?v=-W9F__D3oY4
+
+http://www.hiredintech.com/system-design/the-system-design-process/
+
+Look at the comments section (Michael Sparr especially)
+https://www.quora.com/How-is-grokking-the-system-design-interview-course-Is-it-worth-buying-for-80?_sm_au_=iVVfMqvjsJsvHvk6
+
+https://github.com/shashank88/system_design#designques
+
+http://blog.gainlo.co/index.php/2015/10/22/8-things-you-need-to-know-before-system-design-interviews/
+
+https://gist.github.com/TSiege/cbb0507082bb18ff7e4b
+
+
+-------------------------------------------------------------------------------
+
+
+System design problems
+-------------------------
+- Design a URL shortening service?
+- How would you design the feature in LinkedIn where it computes how many hops there are between you and another person?
+- If you were to design a web platform for online chess games, how would you do that?
+- Youtube recommendation system
+- Designing Instagram
+- Designing Twitter
+- Designing Dropbox
+- Designing Youtube
+- Designing Typeahead Suggestion
+- Designing Facebook’s Newsfeed
+- Designing Yelp
+- Designing Uber	
+
+
+
+
+System design fundas
+-----------------------
+- http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf
+- http://highscalability.com/amazon-architecture
+- http://www.addsimplicity.com/downloads/eBaySDForum2006-11-29.pdf
+- http://www.infoq.com/articles/ebay-scalability-best-practices
+- http://www.hpts.ws/papers/2009/session9/shoup.pdf
+- http://www.slideshare.net/timmorrow/shopzilla-performance-by-design-2433735
+- http://static.googleusercontent.com/media/research.google.com/en/us/archive/googlecluster-ieee.pdf
+- http://www.slideshare.net/mozion/facebook-architecture-for-600m-users
+- http://www.infoq.com/presentations/Infrastructure-at-Facebook/
+- https://www.usenix.org/conference/nsdi13/scaling-memcache-facebook
+- https://www.facebook.com/publications/148418812023978
+- https://www.facebook.com/publications/219621248185635
+- http://www.cs.cmu.edu/~pavlo/courses/fall2013/static/papers/11730-atc13-bronson.pdf
+- http://www.infoq.com/presentations/Scale-at-Facebook
+- http://www.slideshare.net/jboner/scalability-availability-stability-patterns
+- http://www.slideshare.net/linkedin/linkedins-communication-architecture
+- http://www.slideshare.net/r39132/linkedin-data-infrastructure-qcon-london-2012
+- http://www.slideshare.net/adrianco/global-netflix-platform
+- http://www.infoq.com/presentations/Twitter-Timeline-Scalability
+- http://www.slideshare.net/nkallen/q-con-3770885
+- http://www.cs.princeton.edu/~chazelle/courses/BIB/pagerank.htm
+- http://blog.alexyakunin.com/2010/03/nice-bloom-filter-application.html
+https://www.slideshare.net/jboner/scalability-availability-stability-patterns/48-Buddy_Replication
+
+
+
+https://www.hackerrank.com/domains/tutorials/cracking-the-coding-interview?utm_source=video&utm_medium=youtube&utm_campaign=ctci
+
+
+http://snarfed.org/transactions_across_datacenters_io.html
+
+
+
+Distributed systems reading list
+----------------------------------
+
+http://dancres.github.io/Pages/
+
+
+
+
+
+Services engineering
+-----------------------
+
+https://github.com/mmcgrana/services-engineering
+
+
+
+Coding
+-------
+https://www.educative.io/collection/5642554087309312/5679846214598656
+http://algorithm.daqwest.com/
+
+http://bigocheatsheet.com/

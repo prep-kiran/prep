@@ -1,0 +1,11 @@
+DSA
+Solid principles
+Design patterns
+Antipatterns
+Java-J2EE patterns
+Java memory model
+Java threads
+
+Distributed systems
+
+Clean code

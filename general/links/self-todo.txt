@@ -1,0 +1,57 @@
+DSA
+---------
+- learnbay videos
+- Karumanchi
+- GforG
+- Practice in Java
+
+
+
+System design
+---------------
+- Youtube videos
+- problems & solutions
+- Scalability fundas
+
+
+
+Java
+------------
+- Java masterclass (udemy)
+- Practice code in Java
+
+
+
+Design patterns
+-------------------
+- Practice TDD
+- Practice Refactoring
+- Practice DP
+
+
+
+SOLID
+-------------
+- Practice TDD
+- Practice Refactoring
+- Practice SOLID
+
+
+
+Other topics
+---------------
+- Microservices using Sringboot
+- TDD
+- BDD
+- Scaling
+- Availability
+- DR
+- Failover
+- Faut tolerance
+- Logging (Splunk, Graphite/Grafana)
+- Monitoring (Appdynamics, Nagios, NewRelic)
+- Performance
+- Programming models (Functional, Reactive)
+- Distributed Architecture (Kafka, Spark, NoSQL databases, Microservices)
+- Docker, Kubernetes
+	

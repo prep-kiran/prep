@@ -1,0 +1,16 @@
+SOLID
+-----------
+
+https://medium.com/@cramirez92/s-o-l-i-d-the-first-5-priciples-of-object-oriented-design-with-javascript-790f6ac9b9fa
+https://scotch.io/bar-talk/s-o-l-i-d-the-first-five-principles-of-object-oriented-design
+https://github.com/mikeknep/SOLID/blob/master/single_responsibility/bad/src/Board.java
+https://github.com/bsferreira/solid/blob/master/src/com/github/bsferreira/solid/srp/solution/FuelPump.java
+
+
+
+
+
+Design patterns
+-----------------
+https://sourcemaking.com/design_patterns
+https://www.hiredintech.com/classrooms/system-design/lesson/57
